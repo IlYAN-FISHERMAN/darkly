@@ -1,0 +1,5 @@
+just redirect the page to google.com 
+
+http://10.11.10.2:8443/index.php?page=redirect&site=google.com
+
+flag -> b9e775a0291fed784a2d9680fcfad7edd6b8cdf87648da647aaf4bba288bcab4
