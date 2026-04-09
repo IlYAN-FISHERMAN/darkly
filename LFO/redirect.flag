@@ -1,4 +1,4 @@
-just redirect the page to google.com 
+just redirect the page to google.com or anything else
 
 http://10.11.10.2:8443/index.php?page=redirect&site=google.com
 
