@@ -1,0 +1,3 @@
+Used burpsuite to intercept normal image upload, then changed filename and content to php
+
+The flag is: 46910d9ce35b385885a9f7e2b336249d622f29b267a1771fbacf52133beddba8
