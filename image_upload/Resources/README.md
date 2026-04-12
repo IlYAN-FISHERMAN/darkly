@@ -1,4 +1,4 @@
-# Breach: Unrestricted File Upload — PHP Webshell via Extension Bypass
+# Unrestricted File Upload — PHP Webshell via Extension Bypass
 
 ## Summary
 
