@@ -1,11 +1,2 @@
-http://{MACHINE_IP}:8443/robots.txt
-
-http://{MACHINE_IP}:8443/whatever/htpasswd
-root:437394baff5aa33daa618be47b75cb49 (qwerty123@)
-
-http://10.11.10.2:8443/admin/
-username: root
-password: qwerty123@
-
-The flag is: d19b4823e0d5600ceed56d5e896ef328d7a2b9e7ac7e80f4fcdb9b10bcb3e7ff
+d19b4823e0d5600ceed56d5e896ef328d7a2b9e7ac7e80f4fcdb9b10bcb3e7ff
 
