@@ -55,14 +55,6 @@ Query `list_images` directly. Using `-1` as the base ID ensures no legitimate ro
 
 The response contains the flag embedded in the `comment` column.
 
-### 5. Flag
-
-```
-Title   : Hack me ?
-Comment : If you read this just use this md5 decode lowercase then sha256 to win this flag !: 1928e8083cf461a51303633093573c46
-Flag    : f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188
-```
-
 ---
 
 ## Why This Works

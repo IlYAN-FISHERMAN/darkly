@@ -20,7 +20,7 @@ OWASP: [A07:2021 – Identification and Authentication Failures](https://owasp.o
 The sign-in form submits credentials as GET parameters:
 
 ```
-http://10.11.8.1:80/index.php?page=signin&username=admin&password=...&Login=Login
+http://{MACHINE_IP}/index.php?page=signin&username=admin&password=...&Login=Login
 ```
 
 Using GET for authentication is itself a misconfiguration — credentials appear in server logs, browser history, and proxy logs — but it also makes scripted attacks straightforward.
